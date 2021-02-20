@@ -1,29 +1,45 @@
-com/ohyr/example/springboot/web/dto/HelloResponseDto.java
- com.ohyr.example.springboot.web.dto.HelloResponseDto
 com/ohyr/example/springboot/web/HelloController.java
  com.ohyr.example.springboot.web.HelloController
-com/ohyr/example/springboot/Application.java
- com.ohyr.example.springboot.Application
 com/ohyr/example/springboot/domain/posts/Posts.java
  com.ohyr.example.springboot.domain.posts.Posts
  com.ohyr.example.springboot.domain.posts.Posts$PostsBuilder
+com/ohyr/example/springboot/config/auth/dto/OAuthAttributes.java
+ com.ohyr.example.springboot.config.auth.dto.OAuthAttributes
+ com.ohyr.example.springboot.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+com/ohyr/example/springboot/config/auth/SecurityConfig.java
+ com.ohyr.example.springboot.config.auth.SecurityConfig
+com/ohyr/example/springboot/Application.java
+ com.ohyr.example.springboot.Application
+com/ohyr/example/springboot/domain/posts/PostsRepository.java
+ com.ohyr.example.springboot.domain.posts.PostsRepository
+com/ohyr/example/springboot/domain/BaseTimeEntity.java
+ com.ohyr.example.springboot.domain.BaseTimeEntity
+com/ohyr/example/springboot/domain/user/User.java
+ com.ohyr.example.springboot.domain.user.User
+ com.ohyr.example.springboot.domain.user.User$UserBuilder
+com/ohyr/example/springboot/domain/user/Role.java
+ com.ohyr.example.springboot.domain.user.Role
+com/ohyr/example/springboot/web/dto/HelloResponseDto.java
+ com.ohyr.example.springboot.web.dto.HelloResponseDto
+com/ohyr/example/springboot/web/PostsApiController.java
+ com.ohyr.example.springboot.web.PostsApiController
+com/ohyr/example/springboot/config/auth/CustomOAuth2UserService.java
+ com.ohyr.example.springboot.config.auth.CustomOAuth2UserService
 com/ohyr/example/springboot/web/dto/PostsUpdateRequestDto.java
  com.ohyr.example.springboot.web.dto.PostsUpdateRequestDto
  com.ohyr.example.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/ohyr/example/springboot/web/dto/PostsSaveRequestDto.java
  com.ohyr.example.springboot.web.dto.PostsSaveRequestDto
  com.ohyr.example.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
-com/ohyr/example/springboot/domain/BaseTimeEntity.java
- com.ohyr.example.springboot.domain.BaseTimeEntity
-com/ohyr/example/springboot/web/dto/PostsResponseDto.java
- com.ohyr.example.springboot.web.dto.PostsResponseDto
-com/ohyr/example/springboot/web/dto/PostsListResponseDto.java
- com.ohyr.example.springboot.web.dto.PostsListResponseDto
-com/ohyr/example/springboot/domain/posts/PostsRepository.java
- com.ohyr.example.springboot.domain.posts.PostsRepository
-com/ohyr/example/springboot/web/PostsApiController.java
- com.ohyr.example.springboot.web.PostsApiController
+com/ohyr/example/springboot/config/auth/dto/SessionUser.java
+ com.ohyr.example.springboot.config.auth.dto.SessionUser
 com/ohyr/example/springboot/service/posts/PostsService.java
  com.ohyr.example.springboot.service.posts.PostsService
+com/ohyr/example/springboot/web/dto/PostsResponseDto.java
+ com.ohyr.example.springboot.web.dto.PostsResponseDto
+com/ohyr/example/springboot/domain/user/UserRepository.java
+ com.ohyr.example.springboot.domain.user.UserRepository
+com/ohyr/example/springboot/web/dto/PostsListResponseDto.java
+ com.ohyr.example.springboot.web.dto.PostsListResponseDto
 com/ohyr/example/springboot/web/IndexController.java
  com.ohyr.example.springboot.web.IndexController
