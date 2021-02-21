@@ -41,5 +41,11 @@ com/ohyr/example/springboot/domain/user/UserRepository.java
  com.ohyr.example.springboot.domain.user.UserRepository
 com/ohyr/example/springboot/web/dto/PostsListResponseDto.java
  com.ohyr.example.springboot.web.dto.PostsListResponseDto
+com/ohyr/example/springboot/config/auth/LoginUser.java
+ com.ohyr.example.springboot.config.auth.LoginUser
+com/ohyr/example/springboot/config/WebConfig.java
+ com.ohyr.example.springboot.config.WebConfig
+com/ohyr/example/springboot/config/auth/LoginUserArgumentResolver.java
+ com.ohyr.example.springboot.config.auth.LoginUserArgumentResolver
 com/ohyr/example/springboot/web/IndexController.java
  com.ohyr.example.springboot.web.IndexController
